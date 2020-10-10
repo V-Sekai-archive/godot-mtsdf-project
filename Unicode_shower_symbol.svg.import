@@ -1,0 +1,20 @@
+[remap]
+
+importer="distancefield"
+type="ImageTexture"
+path="res://.import/Unicode_shower_symbol.svg-92f41b131595510c0656d9990e4dc698.res"
+
+[deps]
+
+files=[ "res://.import/Unicode_shower_symbol.svg-92f41b131595510c0656d9990e4dc698.res" ]
+
+source_file="res://Unicode_shower_symbol.svg"
+dest_files=[ "res://.import/Unicode_shower_symbol.svg-92f41b131595510c0656d9990e4dc698.res", "res://.import/Unicode_shower_symbol.svg-92f41b131595510c0656d9990e4dc698.res" ]
+
+[params]
+
+size=Vector2( 256, 256 )
+scale=Vector2( 1, 1 )
+translate=Vector2( 0, 0 )
+range=1.0
+auto_frame=true
